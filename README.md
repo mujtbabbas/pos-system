@@ -2,14 +2,13 @@
 <h3 align="center">Open Source Point of Sale</h3>
 
 <p align="center">
-  <a href="#-introduction">Introduction</a> · <a href="#-live-demo">Demo</a> · <a href="#-installation">Installation</a> · 
+  <a href="#-introduction">Introduction</a> · <a href="#-developer">Developer</a> · <a href="#-live-demo">Demo</a> · <a href="#-installation">Installation</a> · 
   <a href="#-contributing">Contributing</a> · <a href="#-reporting-bugs">Bugs</a> · <a href="#-faq">FAQ</a> · 
   <a href="#-keep-the-machine-running">Donate</a> · <a href="#-license">License</a> · <a href="#-credits">Credits</a>
 </p>
 
 <p align="center">
 <a href="https://app.travis-ci.com/opensourcepos/opensourcepos" target="_blank"><img src="https://api.travis-ci.com/opensourcepos/opensourcepos.svg?branch=master" alt="Build Status"></a>
-<a href="https://app.gitter.im/#/room/#opensourcepos_Lobby:gitter.im?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img src="https://badges.gitter.im/jekkos/opensourcepos.svg" alt="Join the chat at https://app.gitter.im"></a>
 <a href="https://badge.fury.io/gh/opensourcepos%2Fopensourcepos" target="_blank"><img src="https://badge.fury.io/gh/opensourcepos%2Fopensourcepos.svg" alt="Project Version"></a>
 <a href="https://translate.opensourcepos.org/engage/opensourcepos/?utm_source=widget" target="_blank"><img src="https://translate.opensourcepos.org/widgets/opensourcepos/-/svg-badge.svg" alt="Translation Status"></a>
 </p>
@@ -44,6 +43,15 @@ The features include:
 - Optional Google reCAPTCHA to protect the login page from brute force attacks
 - GDPR ready
 
+## 👨‍💻 Developer & Socials
+
+Maintained and developed by **Syed Mujtaba Abbas**. 
+Feel free to connect regarding development, contributions, or inquiries.
+
+- **Instagram:** [instagram.com/mujtaba_.abbas](https://instagram.com/mujtaba_.abbas)
+- **Facebook:** [facebook.com/mujtbabbas](https://facebook.com/mujtbabbas)
+- **LinkedIn:** [linkedin.com/in/mujtba/](https://www.linkedin.com/in/mujtba/)
+
 ## 🧪 Live Demo
 
 We've got a live version of our latest master running for you to play around with and test everything out. It's a containerized install that will reinitialize when new functionality is merged into our code repository.
@@ -70,7 +78,7 @@ For more information and recommendations on support hardware, like receipt print
 
 ## ✨ Contributing
 
-Everyone is more than welcome to help us improve this project. If you think you've got something to help us go forward, feel free to open a [pull request]() or join the conversation on [Element](https://app.gitter.im/#/room/#opensourcepos_Lobby:gitter.im).
+Everyone is more than welcome to help improve this project. If you think you've got something to help us go forward, feel free to open a [pull request]().
 
 Want to help translate Open Source Point of Sale in your language? You can find [our Weblate here](https://translate.opensourcepos.org), sign up, and start translating. You can subscribe to different languages to receive a notification once a new string is added or needs updating. Have a look at our [guidelines](https://github.com/opensourcepos/opensourcepos/wiki/Adding-translations) below to help you get started.
 
@@ -106,9 +114,8 @@ NOTE: If you're running non-release code, please make sure you always run the la
 
 ## 🏃 Keep the Machine Running
 
-If you like our project, please consider buying us a coffee through the button below so we can keep adding features.
+If you like this project, please consider supporting the development.
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MUN6AEG7NY6H8)\
 Or refer to the [FUNDING.yml](.github/FUNDING.yml) file.
 
 If you choose to deploy OSPOS in the cloud, you can contribute to the project by using DigitalOcean and signing up through our referral link. You'll receive a [free $200, 60-day credit](https://m.do.co/c/ac38c262507b) if you run OSPOS in a DigitalOcean droplet through [our referral link](https://m.do.co/c/ac38c262507b).
@@ -132,8 +139,6 @@ It's important to understand that although you are free to use the application, 
 - Claiming full ownership of the code is prohibited
 
 In short, you are free to use the application, but you cannot claim any property on it.
-
-Any person or company found breaching the license agreement might find a bunch of monkeys at the door ready to destroy their servers.
 
 ## 🙏 Credits
 
