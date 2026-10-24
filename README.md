@@ -27,6 +27,16 @@ This **POS System** provides businesses with a seamless, intuitive interface for
 *   **Database:** MySQL
 *   **Frontend:** HTML5, CSS3, JavaScript (AJAX for seamless interactions)
 
+---
+
+## Screenshots
+
+The sales register with items in the cart, the inventory list, and a closed daily register.
+
+![Sales screen](docs/screenshots/sales.png)
+![Inventory](docs/screenshots/inventory.png)
+![Daily closing](docs/screenshots/daily-closing.png)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </p>
